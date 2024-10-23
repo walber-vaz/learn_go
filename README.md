@@ -47,8 +47,8 @@ Contribuições são muito bem-vindas! Se você encontrar algum erro ou desejar 
 
 ## Plano de Estudos
 
-Leia o [Plano de Estudos]('Plano_de_Estudos.md') para obter uma visão geral dos tópicos cobertos neste guia de estudos.
+Leia o [Plano de Estudos](Plano_de_Estudos.md) para obter uma visão geral dos tópicos cobertos neste guia de estudos.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença BSD 3-Clause - veja o arquivo [LICENSE]('LICENSE') para mais detalhes.
+Este projeto está licenciado sob a Licença BSD 3-Clause - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
