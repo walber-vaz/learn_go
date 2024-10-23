@@ -45,6 +45,10 @@ O repositório contém uma variedade de exemplos práticos, desde implementaçõ
 
 Contribuições são muito bem-vindas! Se você encontrar algum erro ou desejar adicionar novos exemplos e tópicos de estudo, sinta-se à vontade para abrir uma issue ou enviar um pull request. Para mais informações sobre como contribuir, abra uma issue com a tag "Contribuição".
 
+## Plano de Estudos
+
+Leia o [Plano de Estudos]('Plano_de_Estudos.md') para obter uma visão geral dos tópicos cobertos neste guia de estudos.
+
 ## Licença
 
 Este projeto está licenciado sob a Licença BSD 3-Clause - veja o arquivo [LICENSE]('LICENSE') para mais detalhes.
