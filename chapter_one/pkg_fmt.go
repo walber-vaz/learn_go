@@ -22,7 +22,7 @@ func PackageFmt() {
 
 	// Sprint
 	// Sprint formats using the default formats for its operands and returns the resulting string.
-	usageSprint := fmt.Sprint("Usage Sprint: Hello, World!\nStudents are learning Go!")
+	usageSprint := "Usage Sprint: Hello, World!\nStudents are learning Go!"
 	fmt.Println(usageSprint)
 
 	// Fprint
