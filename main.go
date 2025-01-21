@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	chapter_two.TypeString()
+	chapter_two.TypeNumeric()
 }
