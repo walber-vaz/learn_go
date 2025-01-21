@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	chapter_two.TypeNumeric()
+	chapter_two.Constants()
 }
