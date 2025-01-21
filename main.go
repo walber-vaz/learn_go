@@ -1,7 +1,9 @@
 package main
 
-import "learn-go/chapter_one"
+import (
+	"learn-go/chapter_two"
+)
 
 func main() {
-	chapter_one.PackageFmt()
+	chapter_two.TypeString()
 }
